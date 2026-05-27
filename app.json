@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "exercicio-teste-unitarios",
-    "slug": "exercicio-teste-unitarios",
+    "slug": "roniellicicd",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -14,10 +14,10 @@
     },
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.exercicio-teste-unitarios"
+      "bundleIdentifier": "com.roniellicicd.app"
     },
     "android": {
-      "package": "com.exercicio-teste-unitarios",
+      "package": "com.roniellicicd.app",
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
