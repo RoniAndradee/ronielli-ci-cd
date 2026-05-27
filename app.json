@@ -13,9 +13,11 @@
       "backgroundColor": "#ffffff"
     },
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.ronielliand.exerciciotesteunitarios"
     },
     "android": {
+      "package": "com.ronielliand.exerciciotesteunitarios",
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
