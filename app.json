@@ -14,10 +14,10 @@
     },
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.ronielliand.exerciciotesteunitarios"
+      "bundleIdentifier": "com.exercicio-teste-unitarios"
     },
     "android": {
-      "package": "com.ronielliand.exerciciotesteunitarios",
+      "package": "com.exercicio-teste-unitarios",
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
